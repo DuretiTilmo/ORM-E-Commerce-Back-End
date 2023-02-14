@@ -13,10 +13,11 @@ A starter code was provided to build the back end for an e-commerce website. Thi
 
 ------------------------------
 ## Links
-Walkthrough video =>  
+Walkthrough video => https://drive.google.com/file/d/1I11D7mQecjWh5GSRfLfeabzyxpbSO7EU/view
 
 ## Screenshots
 
+![Alt text](images/Animation.gif)
 ------------------------------
 ## Installation
 
@@ -27,3 +28,4 @@ Walkthrough video =>
     node server.js
    
 -----------------------------------------
+&copy; 2023
